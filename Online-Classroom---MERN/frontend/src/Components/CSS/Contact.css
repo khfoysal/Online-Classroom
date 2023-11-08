@@ -1,0 +1,43 @@
+.box1{
+    width: 500px; 
+    height: 650px;
+    background-color: #b5e1eb;
+    border-radius: 3px;
+    @media screen and (max-width: 600px) {
+        .column, input[type=submit] {
+            width: 100%;
+            margin-top: 0;
+        }
+       }
+}
+
+.Abc{
+ background-image: url("https://ak.picdn.net/shutterstock/videos/9992213/thumb/1.jpg");
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.aboutText{
+    text-align: center;
+}
+
+.contacterrors{
+    color: red;
+    font-weight: 700;
+}
+.aboutLabel{
+    font-weight: 800;
+}
+.Successfull{
+    color: green;
+    font-weight: 700;
+}
+.textinput {
+    float: left;
+    width: 100%;
+    min-height: 75px;
+    outline: none;
+    resize: none;
+    border: 1px solid grey;
+}

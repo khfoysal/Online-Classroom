@@ -1,0 +1,27 @@
+.eventCover{
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+    /* background-image: url("https://i.ibb.co/8dtcL4s/circle-scatter-haikei-1.png"); */
+    /* background-image: url("https://media.istockphoto.com/vectors/male-hand-holding-megaphone-with-upcoming-events-speech-bubble-for-vector-id1197831852?k=20&m=1197831852&s=612x612&w=0&h=N5r_v9bSgZpu7jHT2QiEmzjJXe0ik2tGCRHq5wuM38U="); */
+    /*  */
+    /* background-size: cover; */
+.imgClass{
+    width: 100vw;
+}
+.eventHeader{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

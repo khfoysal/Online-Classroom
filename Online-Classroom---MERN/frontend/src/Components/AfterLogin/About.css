@@ -1,0 +1,13 @@
+.c1{
+    background-color: blanchedalmond;
+    height: 1000px;
+}
+.c2{
+    height: 300px;
+    border: 2px solid black;
+}
+.imageanddetail{
+    border: 2px solid red;
+    border-right: 2px solid blue;
+    height: 250px;
+}

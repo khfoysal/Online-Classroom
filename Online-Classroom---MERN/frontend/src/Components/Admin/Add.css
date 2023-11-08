@@ -1,0 +1,25 @@
+.admin1{
+    /* background-image: url('https://i.ibb.co/ncBCdrR/classroom.png'); */
+    background-size: cover;
+    background-position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: repeat-x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.box1{
+        margin: auto;
+        width: 55%;
+        height: 80%;
+        font-weight: 800;
+        border: 3px solid green;
+        padding: 10px;
+        background-color: rgba(50, 48, 61, 0.5);
+}
+.std{
+    background-color: violet;
+    /* background-image: url("https://us.123rf.com/450wm/9dreamstudio/9dreamstudio1802/9dreamstudio180200209/94799067-scattered-stationery-on-student-s-desk-yellow-background-top-view-.jpg?ver=6"); */
+}

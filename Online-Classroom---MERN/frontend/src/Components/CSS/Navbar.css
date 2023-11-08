@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Roboto&display=swap');
+.navbar{
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+nav{
+    border-bottom: 1px solid black;
+}
+.navbar-brand{
+    font-size: 1.1rem !important;
+    margin-left: 5vw;
+}
+li{
+    font-weight: 900;
+}
+.menu_active{
+    font-weight: bold;
+    background-color: aquamarine;
+}
+.navbar #nav > .active > a {
+    color: red;
+}
+nav{
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}

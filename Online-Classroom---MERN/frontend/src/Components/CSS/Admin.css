@@ -1,0 +1,61 @@
+.bg{
+    background-image: url('https://wallpaperaccess.com/full/16692.jpg');
+}
+.admin{
+    /* background-image: url("https://i.ibb.co/ncBCdrR/classroom.png"); */
+    /* background-image: linear-gradient(to right, rgba(20, 219, 86, 0.877), rgba(255,0,0,1)); */
+    height: 600px;
+    width: 100vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student{
+    
+}
+.faculty{
+
+}
+
+
+
+
+
+/* end navbar */
+
+.adminOption{
+    width: 20%;
+    height: 90px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10%;
+}
+.adminOptions{
+    display: flex;
+    justify-content: space-evenly;
+}
+.op1{
+background-color: rgb(80, 255, 203);
+font-weight: 800;
+color: whitesmoke;
+}
+.op2{
+    background-color: rgb(246, 13, 246);
+    color: whitesmoke;
+}
+.op3{
+    background-color: rgb(109, 19, 255);
+    color: whitesmoke;
+}
+.op4{
+    background-color:rgb(156, 243, 4);
+    color: whitesmoke;
+}
+.optionsCss{
+    
+    display: flex;
+    width: 100vw;
+    justify-content:space-evenly;
+    align-items: center;
+}

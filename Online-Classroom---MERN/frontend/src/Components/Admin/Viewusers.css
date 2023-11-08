@@ -1,0 +1,23 @@
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.card{
+    background-color:mistyrose;
+    width: 350px;
+    margin: 10px;
+    height: 250px;
+    border:1px solid #d3cede;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0 5px 5px 5px;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 10px 10px 30px lightgray;
+}
+.search{
+    
+}
